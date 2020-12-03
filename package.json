@@ -1,0 +1,11 @@
+{
+  "name": "test-react",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:moulik-deepsource/test-react.git",
+  "author": "Moulik Aggarwal <moulik@deepsource.io>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.1"
+  }
+}
